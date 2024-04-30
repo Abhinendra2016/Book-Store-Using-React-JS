@@ -1,6 +1,6 @@
 import React from "react";
-import Book1 from "../../assets/books/book2.jpg";
-import Book2 from "../../assets/books/book1.jpg";
+import Book1 from "../../assets/books/book1.jpg";
+import Book2 from "../../assets/books/book2.jpg";
 import Book3 from "../../assets/books/book3.jpg";
 import Vector from "../../assets/website/blue-pattern.png";
 
@@ -8,23 +8,23 @@ const ImageList = [
   {
     id: 1,
     img: Book1,
-    title: "His Life will forever be Changed",
+    title: "VERITY",
     description:
-      "lorem His Life will forever be Changed dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "A thrilling romantic suspense novel that keeps readers on the edge of their seat, questioning the truth and exploring the blurred lines between reality and fiction.",
   },
   {
     id: 2,
     img: Book2,
-    title: "Who's there",
+    title: "HEART BONES",
     description:
-      "Who's there lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Two lonely kids who slipped through all the cracks, but then climbed right back up to the top of the world.",
   },
   {
     id: 3,
     img: Book3,
-    title: "Lost Boy",
+    title: "IT ENDS WITH US",
     description:
-      "Lost Boy, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "The relationship between Ryle and Lilly is beautiful but that relationship is being destroyed by Ryle's temper issues. I like the way they play 'naked truths' everytime they want to be honest with each other.",
   },
 ];
 

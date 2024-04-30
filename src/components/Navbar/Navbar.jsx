@@ -26,10 +26,6 @@ const DropdownLinks = [
     name: "Best Selling",
     link: "/#",
   },
-  {
-    name: "Authors",
-    link: "/#",
-  },
 ];
 
 const Navbar = ({ handleOrderPopup }) => {

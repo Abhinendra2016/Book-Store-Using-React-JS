@@ -10,37 +10,32 @@ const booksData = [
   {
     id: 1,
     img: Book1,
-    title: "Who's there",
-    rating: 5.0,
-    author: "Someone",
+    title: "Verity",
+    rating: 4.5,
   },
   {
     id: 2,
     img: Book2,
-    title: "His Life",
-    rating: 4.5,
-    author: "John",
+    title: "HEART BONES",
+    rating: 4.2,
   },
   {
     id: 3,
     img: Book3,
-    title: "Lost boys",
-    rating: 4.7,
-    author: "Lost Girl",
+    title: "IT END WITH US",
+    rating: 4.3,
   },
   {
     id: 4,
     img: Book4,
-    title: "His Life",
+    title: "Reminders of Him",
     rating: 4.4,
-    author: "Someone",
   },
   {
     id: 5,
     img: Book5,
-    title: "Who's There",
-    rating: 4.5,
-    author: "Someone",
+    title: "TOO LATE",
+    rating: 4.0,
   },
 ];
 
@@ -55,9 +50,8 @@ const Books = () => {
               Top Books for you
             </p>
             <h1 className="text-3xl font-bold">Top Books</h1>
-            <p className="text-xs text-gray-400">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Perspiciatis delectus architecto error nesciunt,
+            <p className="text-sm text-gray-500 mt-2">
+              Discover the latest and greatest reads that everyone is talking about. From thrilling mysteries to heartwarming tales, these books are sure to capture your imagination.
             </p>
           </div>
 

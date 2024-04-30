@@ -32,12 +32,10 @@ const Banner = () => {
               {/* text content section */}
               <div className="flex flex-col justify-center gap-6 sm:pt-0">
                 <h1 className="text-3xl sm:text-4xl font-bold">
-                  Library at your fingertips
+                  Colleen Hover Books at your fingertips
                 </h1>
                 <p className="text-sm text-gray-500 tracking-wide leading-5">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Eaque reiciendis inventore iste ratione ex alias quis magni at
-                  optio
+                Explore a world of captivating stories by Colleen Hoover, one of the most beloved authors of our time. From heart-wrenching romance to gripping suspense, her books are sure to captivate and inspire.
                   <br />
                 </p>
                 <div className="flex flex-col gap-4">
