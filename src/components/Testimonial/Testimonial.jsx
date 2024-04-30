@@ -4,20 +4,20 @@ import Slider from "react-slick";
 const testimonialData = [
   {
     id: 1,
-    name: "Victor",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
-    img: "https://picsum.photos/101/101",
-  },
-  {
-    id: 1,
-    name: "Satya Narayan",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Subhag Prabhune",
+    text: "Colleen Hoover's Verity is a captivating psychological thriller that will keep you guessing until the very last page. Low on inspiration, struggling writer Lowen Ashford accepts a dream offer to complete the remaining manuscript of bestselling author Verity Crawford.However, as Lowen delves deeper into Verity's work, she uncovers unsettling truths that blur the lines between fiction and reality.",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 1,
-    name: "Sachin Tendulkar",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Priyam  Singh",
+    text: "It Ends With Us by Colleen Hoover is a complex and emotional journey that explores the enduring power of love. Lily, the protagonist, finds herself caught between two men: Atlas, her childhood sweetheart with a troubled past, and Ryle, a successful neurosurgeon who offers her a seemingly perfect life. As Lily grapples with her feelings and a shocking revelation from her past, she must decide what she truly desires.",
+    img: "https://picsum.photos/101/101",
+  },
+  {
+    id: 1,
+    name: "Mohit Sejwani",
+    text: "Ready to be swept away by the raw emotions in Colleen Hoover's Ugly Love.This captivating novel tells the story of Tate Collins, a college baseball player known for his commitment phobia, and  Warner, a mysterious young woman hiding a painful secret.  Despite their contrasting personalities and undeniable attraction, both Tate and Warner vow to keep their relationship strictly physical.",
     img: "https://picsum.photos/103/103",
   },
 ];
@@ -70,10 +70,6 @@ const Testimonial = () => {
               What our customers say
             </p>
             <h1 className="text-3xl font-bold">Testimonial</h1>
-            <p className="text-xs text-gray-400">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Perspiciatis delectus architecto error nesciunt,
-            </p>
           </div>
           <div
             data-aos="zoom-in"

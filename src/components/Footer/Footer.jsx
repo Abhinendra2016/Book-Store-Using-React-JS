@@ -38,13 +38,12 @@ const Footer = () => {
               Books Store
             </h1>
             <p className="">
-              Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Possimus, voluptate.{" "}
+            Discover Colleen Hoover's captivating novels at our store. From heartrending romances to gripping tales, find her best works that touch hearts and inspire minds.{" "}
             </p>
             <br />
             <div className="flex items-center gap-3">
               <FaLocationArrow />
-              <p>Noida, Uttar Pradesh</p>
+              <p>Greater Noida, Delhi NCR</p>
             </div>
             <div className="flex items-center gap-3 mt-3">
               <FaMobileAlt />
