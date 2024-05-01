@@ -1,6 +1,6 @@
 # Colleen Hoover Book Store 📚
 
-Welcome to the Colleen Hoover Book Store! Explore a world of captivating novels by Colleen Hoover, featuring heartwarming romances and gripping tales.
+Welcome to the Colleen Hoover Book Store! Explore a world of captivating novels by Colleen Hoover,featuring heartwarming romances and gripping tales.
 
 ## Features ✨
 
@@ -15,11 +15,17 @@ Welcome to the Colleen Hoover Book Store! Explore a world of captivating novels 
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
+## Technologies Used
+
+- React
+- Tailwind CSS
+- JavaScript
+
 ## Usage 📖
 
 - Browse through our collection of Colleen Hoover books
 - Toggle dark mode for a comfortable reading experience
-- Click on a book to view details and purchase options
+- Click on a book to view details and purchase options 
 
 ## Preview 📸
 
